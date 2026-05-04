@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Valerii — Lead Backend Engineer
+# 👋 Hi, I'm Valerii — Senior Backend Engineer
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
@@ -10,27 +10,6 @@
   <img src="https://img.shields.io/badge/Architecture-Distributed-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System%20Design-Highload-red?style=for-the-badge"/>
 </p>
-
----
-
-## 🚀 About Me
-
-Supporting **1M+ users** and enabling **multi-million-dollar impact** through large-scale system transformations, I deliver and scale backend systems for enterprise platforms.
-
-I specialize in **distributed architecture, complex data processing, and performance optimisation**.
-
----
-
-## 🧠 What I Actually Do
-
-- 🏗 Architect scalable **microservice systems**
-- ⚙️ Design **event-driven architectures**
-- 🧩 Apply **DDD (bounded contexts, ADR)**
-- ⚡ Optimize **high-load computation pipelines**
-- 🧮 Build **async processing systems (Celery, queues)**
-- 🏢 Develop **multi-tenant SaaS platforms**
-
----
 
 ## 🛠 Tech Stack
 
@@ -57,35 +36,3 @@ I specialize in **distributed architecture, complex data processing, and perform
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana&logoColor=white)
 
----
-
-## 📊 Impact Highlights
-
-- ⚡ Reduced computation time by **~60%** via async architecture redesign  
-- 🏗 Built **digital twin platform** for Oil & Gas optimisation  
-- 📦 Delivered **multi-tenant SaaS ERP system**  
-- 🔄 Improved reliability of large-scale **data migration pipelines**
-
----
-
-## 🧭 Engineering Mindset
-
-> I build systems that scale in production — not just pass tests.
-
-- Clean architecture over quick fixes  
-- Observability is not optional  
-- Performance is a feature  
-
----
-
-## 🌍 Open To
-
-- Remote roles (LATAM / US time zones)  
-- Relocation  
-- Backend / Platform / Infrastructure roles  
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/valerii-dev/
